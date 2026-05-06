@@ -8,3 +8,4 @@ Content-Type: */*
 GET http://localhost:8080/q/health/live
 
 ###
+GET http://localhost:8080/api/vehicle
